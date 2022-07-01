@@ -2,10 +2,6 @@
 """
 Game of life simple script for checking init states and checking if the evolution is
 implemented correctly.
-
-Created on Tue Jan 15 12:37:52 2019
-
-@author: shakes
 """
 import conway
 import matplotlib.pyplot as plt
