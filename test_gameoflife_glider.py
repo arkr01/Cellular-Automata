@@ -1,10 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Game of life script with animated evolution
-
-Created on Tue Jan 15 12:37:52 2019
-
-@author: shakes
+GoL + animated evolution
 """
 
 import conway
